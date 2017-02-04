@@ -8,8 +8,8 @@ a Title, Quick Summary, Contributors list with links to their githubs (your grou
 In week 8 of RUCoding Bootcamp, we were put into groups to create an original website that incorporates multiple APIs. 
 
 ##Contributors
-*[Christa Hazel] (https://github.com/christahazel)
-*[Krista Charner] (https://github.com/kcharner)
+*[Christa Hazel] (https://github.com/christahazel)--
+*[Krista Charner] (https://github.com/kcharner)--
 *[Allen Chen] (https://github.com/chenallen93)
 
 ##Synopsis
