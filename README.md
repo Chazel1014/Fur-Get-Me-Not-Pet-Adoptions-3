@@ -9,9 +9,7 @@ In week 8 of RUCoding Bootcamp, we were put into groups to create an original we
 
 ##Contributors
 [Christa Hazel] (https://github.com/christahazel)
-
 [Krista Charner] (https://github.com/kcharner)
-
 [Allen Chen] (https://github.com/chenallen93)
 
 ##Synopsis
