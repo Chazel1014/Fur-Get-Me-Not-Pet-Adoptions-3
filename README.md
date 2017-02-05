@@ -1,8 +1,8 @@
 # Fur-Get-Me-Not-Pet-Adoptions-3
 
-a Title, Quick Summary, Contributors list with links to their githubs (your group members - as long as they contributed), Heroku Link, gif(s) of your app being used,Guest Username/Password (if applicable), Synopsis, Technologies used, Feature and API list
+<!-- a Title, Quick Summary, Contributors list with links to their githubs (your group members - as long as they contributed), Heroku Link, gif(s) of your app being used,Guest Username/Password (if applicable), Synopsis, Technologies used, Feature and API list -->
 
-![gif demo](http://g.recordit.co/7uzqGy29d5.gif)
+![gif demo](http://g.recordit.co/c91w8aYlOz.gif)
 
 <!-- ![Awesome cat gif](http://media.giphy.com/media/7z2oyDXIMEs8w/giphy.gif) -->
 
@@ -31,7 +31,7 @@ A pet adoption site that focuses on the forgotten pets in your area. We used the
 
 
 ##APIs
-PetFinder API
+- PetFinder API
 
-Google Maps API
+- Google Maps API
 
