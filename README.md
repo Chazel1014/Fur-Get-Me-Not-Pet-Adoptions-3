@@ -28,6 +28,7 @@ A pet adoption site that focuses on the forgotten pets in your area. We used the
   - Bootstrap
   - Materialize
 - jQuery
+- AJAX
 
 
 ##APIs
