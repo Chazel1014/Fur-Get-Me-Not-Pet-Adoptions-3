@@ -7,16 +7,14 @@
 <!-- ![Awesome cat gif](http://media.giphy.com/media/7z2oyDXIMEs8w/giphy.gif) -->
 
 ##Quick Summary
-In week 8 of RUCoding Bootcamp, we were put into groups to create an original website that incorporates multiple APIs. 
+A pet adoption app using HTML, CSS, Javascript, jQuery, Giphy API 
 
 ##Contributors
-[Christa Hazel]
+- [Christa Hazel]
 (https://github.com/christahazel)
-
-[Krista Charner]
+- [Krista Charner]
 (https://github.com/kcharner)
-
-[Allen Chen]
+- [Allen Chen]
 (https://github.com/chenallen93)
 
 ##Synopsis
@@ -30,9 +28,8 @@ A pet adoption site that focuses on the forgotten pets in your area. We used the
 - jQuery
 - AJAX
 
-
 ##APIs
 - PetFinder API
-
 - Google Maps API
+
 
