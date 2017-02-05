@@ -2,9 +2,9 @@
 
 a Title, Quick Summary, Contributors list with links to their githubs (your group members - as long as they contributed), Heroku Link, gif(s) of your app being used,Guest Username/Password (if applicable), Synopsis, Technologies used, Feature and API list
 
-![gif](http://g.recordit.co/7uzqGy29d5.gif)
+![gif demo]http://g.recordit.co/7uzqGy29d5.gif
 
-![Awesome cat gif](http://media.giphy.com/media/7z2oyDXIMEs8w/giphy.gif)
+<!-- ![Awesome cat gif](http://media.giphy.com/media/7z2oyDXIMEs8w/giphy.gif) -->
 
 ##Quick Summary
 In week 8 of RUCoding Bootcamp, we were put into groups to create an original website that incorporates multiple APIs. 
